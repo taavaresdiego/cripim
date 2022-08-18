@@ -25,8 +25,5 @@
 
 </div>
 
-Here are some ideas to get you started:
 
-- 🔭 Sou desenvolvedor Web Full Stack...
-- 🌱 Estou estudando Javascript, MySQL...
 
